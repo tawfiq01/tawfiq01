@@ -1,26 +1,20 @@
 
 
 
-**mashru020/mashru020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 # Assalamualaikum! 
 
 ## I am <a href="#">Tawfiqul Islam</a>
 
-I am currently working at ERA InfoTech Limited as a DevOps Engineer.
+- 🔭 I’m currently working at ERA InfoTech Limited.
+- 🌱 I’m currently learning DevOps.
 
-<h3 align="left">Contact Info</h3>
+<!-- - 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ... 
+- 💬 Ask me about ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...-->
+- 📫 How to reach me:
+<!-- <h3 align="left">Contact Info</h3> -->
 ☎ Phone: +01676797239 (Whatsapp)
 
 📨 Email: tawfiqul01@gmail.com
@@ -33,13 +27,13 @@ I am currently working at ERA InfoTech Limited as a DevOps Engineer.
 ## ⚡ tech-stack
 ```json
 {
-  "Language"         : ["Javascript", "C", "C++", "Bash"],
-  "Server"           : [ "Nginx", "Apache-Tomcat", "JasperReports Server"],
+  "Language"         : ["Java", "C", "Python", "Bash"],
+  "Server"           : [ "Nginx", "Apache-Tomcat", "Oracle APEX", "Oracle ORDS"],
   "Operating System" : ["Linux"],
   "Containerization" : ["Docker"],
   "CI/CD"            : ["Jenkins"],
-  "Frontend"         : [ "ReactJs", "HTML5", "CSS3", "Bootstrap", "JQuery"],
-  "Database"         : ["PostgreSql","MySQL"],
+  "Frontend"         : [  "HTML5", "CSS3"],
+  "Database"         : ["PostgreSql","MySQL", "PL/SQL"],
 }
 ```
 
