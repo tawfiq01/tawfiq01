@@ -15,9 +15,8 @@
 - ⚡ Fun fact: ...-->
 - 📫 How to reach me:
 <!-- <h3 align="left">Contact Info</h3> -->
-☎ Phone: +01676797239 (Whatsapp)
-
-📨 Email: tawfiqul01@gmail.com
+     ☎ Phone: +01676797239 (Whatsapp)
+    📨 Email: tawfiqul01@gmail.com
 <p align="left">
 
 <a href="https://www.linkedin.com/in/tawfiqulislam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
