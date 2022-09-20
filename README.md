@@ -7,7 +7,6 @@
 
 - 🔭 I’m currently working at ERA InfoTech Limited.
 - 🌱 I’m currently learning DevOps.
-
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...
@@ -18,7 +17,6 @@
      ☎ Phone: +01676797239 (Whatsapp)
     📨 Email: tawfiqul01@gmail.com
 <p align="left">
-
 <a href="https://www.linkedin.com/in/tawfiqulislam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
 <a href="https://www.facebook.com/tawfiqul.islam01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Faceboot" height="30" width="40" /></a>
 </p>
