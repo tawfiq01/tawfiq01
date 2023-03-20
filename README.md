@@ -29,7 +29,7 @@
   "Operating System" : ["Linux"],
   "Containerization" : ["Docker"],
   "CI/CD"            : ["Jenkins"],
-  "Frontend"         : [  "HTML5", "CSS3"],
+  "Frontend"         : [ "HTML5", "CSS3"],
   "Database"         : ["PostgreSql","MySQL", "PL/SQL"],
 }
 ```
